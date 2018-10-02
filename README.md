@@ -4,13 +4,13 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Skills
 
-#### Creative Problem Solver
+#### Growth Mindset
+
+#### Coaching & Mentoring
 
 #### Quick Learner
 
-#### Excellent Communicator
-
-####
+#### Creative Problem Solver
 
 
 
