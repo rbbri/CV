@@ -52,7 +52,7 @@ A 16-week intensive bootcamp focusing on:
 ## Experience
 
 **East London Arts & Music** (09/2013 to 07/2017)    
-Teacher of Mathematics 
+Co-Head of Mathematics 
 
 **Brighton Hove & Sussex 6th Form College** (09/2017 to 07/2018)   
-Co-Head of Mathematics 
+Teacher of Mathematics 
