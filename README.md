@@ -1,5 +1,7 @@
 ## Robin Johnson
 
+
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
@@ -11,10 +13,6 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 #### Quick Learner
 
 #### Creative Problem Solver
-
-
-
-#### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -33,30 +31,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (Sep 2018 to Jan 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+A 16-week intensive bootcamp focusing on:
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Object-oriented programming
+- Test driven development and Behaviour driven development
+- Agile methodologies
+- XP values
+- Pair programming
 
 #### University of Brighton (Sep 2012 to Jun 2013)
 
-- PGCE Secondary Mathematics
-- Grade
-- Other cool stuff
+- PGCE Mathematics (Secondary)
 
 #### University of Leeds (Sep 2007 to Jun 2011)
 
-- BSc Mathematics with Finance
+- Mathematics with Finance: BSc(Hons) 2:2
 
 #### Any other qualifications
 
 ## Experience
 
-**East London Arts & Music** (start_date to end_date)    
-*Your job title*  
-**Brighton Hove & Sussex 6th Form College** (start_date to end_date)   
-*Your job title*  
+**East London Arts & Music** (09/2013 to 07/2017)    
+Teacher of Mathematics 
+**Brighton Hove & Sussex 6th Form College** (09/2017 to 07/2018)   
+Co-Head of Mathematics 
