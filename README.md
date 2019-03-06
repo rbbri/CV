@@ -22,7 +22,7 @@ A former Post-16 Mathematics Teacher, Mathematics with Finance graduate, and alu
 
 #### Coaching & Mentoring
 
-  Since finishing the course at Makers I have supported other students in a role as an assistant coach. This involved performing code reviews for current students and
+  Since finishing the course at Makers I have supported other students in a role as an assistant coach. This involved performing code reviews for students on-site and support the delivery of the precourse for students off-site.
 
   As a Mathematics teacher I encouraged students to develop a growth mindset and helped prepare them for self led learning upon leaving college.
 
@@ -78,13 +78,16 @@ A Levels
 ## Experience
 
 **Pearson** (06/2015 - present)
-Associate Examiner (GCSE Mathematics and IAL Statistics)
 
-**East London Arts & Music** (09/2017 - 07/2018)      
+GCSE Mathematics and IAL Statistics Associate Examiner (Seasonal)
+
+**East London Arts & Music** (09/2017 - 07/2018)
+
 Co-Head of Mathematics
 
-**Brighton Hove & Sussex 6th Form College**   
-Teacher of Mathematics, GCSE Mathematics Course Lead (09/2013 - 07/2017)
+**Brighton Hove & Sussex 6th Form College** (09/2013 - 07/2017)  
+
+Teacher of Mathematics, GCSE Mathematics Course Lead
 
 ## Interests
 
