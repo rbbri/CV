@@ -22,7 +22,7 @@ A former Post-16 Mathematics Teacher, Mathematics with Finance graduate, and alu
 
 #### Coaching & Mentoring
 
-  Since finishing the course at Makers I have supported other students in a role as an assistant coach. This involved performing code reviews for students on-site and support the delivery of the precourse for students off-site.
+  Since finishing the course at Makers I have supported other students in a role as an assistant coach. This involved performing code reviews for students on-site and supporting the delivery of the precourse for students off-site.
 
   As a Mathematics teacher I encouraged students to develop a growth mindset and helped prepare them for self led learning upon leaving college.
 
@@ -37,8 +37,11 @@ A former Post-16 Mathematics Teacher, Mathematics with Finance graduate, and alu
 
 | Projects | Summary  | Technologies | Testing  |
 | -------- | -------- | ------------ | -------- |
-|[MakersRich](https://github.com/toddpla/makersrich) | An educational multiplayer online RPG, built in 10 days for a final project at Makers | JS, React, Redux, Firebase, Tiled| Cypress, Jest |
+|[MakersRich](https://github.com/toddpla/makersrich) | An educational multiplayer online RPG, built in 10 days for a final project at Makers | JS, React, Redux, Firebase, Tiled | Cypress, Jest |
 |[Test-Sweet](https://github.com/rbbri/sweet) | Collaborated with a colleague to build a JavaScript testing framework and published it as an [NPM package](https://www.npmjs.com/package/test-sweet). | JS, Node.js | Test-Sweet |
+|[Bank Tech Test](https://github.com/rbbri/bank_tech_test) | A practice tech test for a banking application | Ruby | RSpec, Rubocop |
+|[Postagramme](https://github.com/rbbri/instagram-challenge) | An Instagram clone built in one day and deployed on [Heroku](http://postagramme.herokuapp.com) | Ruby, Rails | Capybara, FactoryBot, RSpec, Rubocop |
+
 
 
 
